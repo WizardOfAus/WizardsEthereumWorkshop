@@ -1,2 +1,6 @@
-# WizardsEthereumWorkshop
-WizardOfAus' Ethereum Workshop Workspace https://www.meetup.com/bitfwd-London-Wizards-Blockchain-Workshops/
+See the [wiki](https://github.com/WizardOfAus/WizardsEthereumWorkshop/wiki) for further details.
+
+Collaborators:
+
+* [bitfwd](https://github.com/bitfwdcommunity)
+* [WizardOfAus](https://github.com/WizardOfAus)
