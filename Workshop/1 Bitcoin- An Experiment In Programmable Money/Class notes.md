@@ -9,3 +9,7 @@ Notes for class
 Check out: 
 
 https://live.blockcypher.com/btc/
+
+***
+
+Please push any notes accordingly below in a neat format:
