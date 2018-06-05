@@ -297,9 +297,7 @@ contract MySimpleTokenWithBugsFixed {
 pragma solidity ^0.4.19;
 
 // ----------------------------------------------------------------------------
-// BokkyPooBah's Ethereum Workshop #31
-//
-// Enjoy. (c) BokkyPooBah / Bok Consulting Pty Ltd 2018. The MIT Licence.
+// (c) bitfwd. The MIT Licence.
 // ----------------------------------------------------------------------------
 
 // ----------------------------------------------------------------------------
