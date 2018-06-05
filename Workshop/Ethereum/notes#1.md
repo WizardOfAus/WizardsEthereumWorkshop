@@ -36,13 +36,13 @@ Smart Contract Basics
 * Load the code below in https://remix.ethereum.org/
 * In the **Run** tab, click on the **Create** button
 * Click on the blue coloured variable buttons and note the values returned
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/Remix-BasicVariables-20180207-105150.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-BasicVariables-20180207-105150.png" /></kbd>
 * Set a string variable using the pink `setStringVariable` button, then view the modified `stringVariable` value (or `getStringVariable`, or `getStringVariable1`)
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/Remix-NewStringValue-20180207-105304.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-NewStringValue-20180207-105304.png" /></kbd>
 * Click on the pink `underflowIntegerVariable` button, then check the integer values
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/Remix-Underflow-20180207-105404.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-Underflow-20180207-105404.png" /></kbd>
 * Click on the pink `overflowIntegerVariable` button twice, then check the integer values
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/Remix-Overflow-20180207-105506.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/Remix-Overflow-20180207-105506.png" /></kbd>
 
 <br />
 
@@ -60,21 +60,21 @@ Smart Contract Basics
 * Click **Sign Transaction**
 * Click **Deploy Contract**
 * View your account in https://ropsten.etherscan.io/ . Search for your latest transaction
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-CreateContractTx-20180207-101042.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-CreateContractTx-20180207-101042.png" /></kbd>
 * Click on the created contract
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-CreatedContract-20180207-101119.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-CreatedContract-20180207-101119.png" /></kbd>
 * Click on the **Contract Code** tab
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-ContractCode-20180207-101149.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-ContractCode-20180207-101149.png" /></kbd>
 * Click on **Verify and Publish**
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-VerifyAndPublish-20180207-101632.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png" /></kbd>
 * Paste the source code from Remix into the large text box
 * Enter **BasicVariables** in the **Contract Name** field
 * Select the **Compiler** version to match your Remix setting. You will find this setting in Remix URL (e.g. `https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.19+commit.c4cbbb05.js`) for compiler version `v0.4.19+commit.c4cbbb05`
 * Switch the **Optimisation** field to **Yes** or **No** depending on your Remix setting. You will find this setting in Remix URL (e.g. `https://remix.ethereum.org/#optimize=false&version=soljson-v0.4.19+commit.c4cbbb05.js`) - `optimize=false` => **No**
 * Scroll down and click **Verify and Publish**
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-VerifyAndPublish-20180207-101632.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifyAndPublish-20180207-101632.png" /></kbd>
 * Click on the contract address and you will see the **Contract Source Code Verified** message
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-VerifiedContract-20180207-101731.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-VerifiedContract-20180207-101731.png" /></kbd>
 
 <br />
 
@@ -83,19 +83,19 @@ Smart Contract Basics
 * In https://www.myetherwallet.com/, select the **Contracts** tab, then click **Interact with Contract**
 * In the **Contract Address** field, enter the address of your newly created contract
 * In the **ABI / JSON Interface** text box, enter the **Contract ABI** data from the EtherScan page for your newly deployed contract
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/MEW-InteractWithContract-20180207-110338.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-InteractWithContract-20180207-110338.png" /></kbd>
 * Click **Access**
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/MEW-Access-20180207-110437.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-Access-20180207-110437.png" /></kbd>
 * Select **underflowIntegerVariables**
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/MEW-SelectFunction-20180207-110545.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-SelectFunction-20180207-110545.png" /></kbd>
 * Select **Generate Transaction**
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/MEW-GenerateTransaction-20180207-110559.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-GenerateTransaction-20180207-110559.png" /></kbd>
 * Select **Yes, I am sure! Make transaction.**
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/MEW-MakeTransaction-20180207-110610.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/MEW-MakeTransaction-20180207-110610.png" /></kbd>
 * View the latest transaction from your account in EtherScan
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-UnderflowTx-20180207-110737.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-UnderflowTx-20180207-110737.png" /></kbd>
 * View the **Read Smart Contract** in EtherScan and note the underflowed variables
-  <kbd><img src="https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/blob/master/images/EtherScan-ReadSmartContract-20180207-110759.png" /></kbd>
+  <kbd><img src="https://github.com/WizardOfAus/WizardsEthereumWorkshop/blob/master/Workshop/Ethereum/Images/EtherScan-ReadSmartContract-20180207-110759.png" /></kbd>
 
 
 <br />
