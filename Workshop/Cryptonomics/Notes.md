@@ -45,3 +45,7 @@ Mechanism Design vs. Game Theory
 • **Game Theory**: What is the outcome of strategic interaction between individuals in a given game, i.e., economic environment/institution?
 
 • **Mechanism Design**: How do we design the game, i.e., economic environment/institution to obtain a certain outcome?
+
+Mechanism Design studies solution concepts of playing private information games with the features:
+- that a game "designer" chooses the game structure rather than inheriting one
+- that the designer is interested in the game's outcome
