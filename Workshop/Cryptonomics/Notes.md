@@ -49,3 +49,7 @@ Mechanism Design vs. Game Theory
 Mechanism Design studies solution concepts of playing private information games with the features:
 - that a game "designer" chooses the game structure rather than inheriting one
 - that the designer is interested in the game's outcome
+
+Watch [Eric Maskin - An Introduction to Mechanism Design @ Warwick Economics Summit 2014](https://www.youtube.com/watch?v=XSVoeETsEcU "What's mechanism design")
+
+
