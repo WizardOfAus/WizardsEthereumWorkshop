@@ -9,3 +9,8 @@
 [Baby Step Contracts](https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts "Baby Steps")
 
 [EVM Opcode Gas Prices](https://github.com/Blockchain-for-Developers/evm-opcode-gas-costs/blob/master/opcode-gas-costs_EIP-150_revision-1e18248_2017-04-12.csv "ETH Yellow Paper")
+
+[The Ethereum Developer Essential Reading List](https://medium.com/blockchannel/the-ethereum-developer-essential-reading-list-4fe5d788b294 "Essentials")
+
+
+
