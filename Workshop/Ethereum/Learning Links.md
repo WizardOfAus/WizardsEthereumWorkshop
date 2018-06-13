@@ -13,4 +13,11 @@
 [The Ethereum Developer Essential Reading List](https://medium.com/blockchannel/the-ethereum-developer-essential-reading-list-4fe5d788b294 "Essentials")
 
 
+## Consensus Mechanisms
+
+[Byzantine General's Problem](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Byzantine_Generals'_Problem "Byzantine Generals")
+
+[Consensus Types](https://mastanbtc.github.io/blockchainnotes/consensustypes/ "Types of Consensus")
+
+[Review of Blockchain Consensus Mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2 "Consensus Reviews")
 
