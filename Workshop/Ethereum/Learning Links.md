@@ -21,3 +21,9 @@
 
 [Review of Blockchain Consensus Mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2 "Consensus Reviews")
 
+## Mining in Ethereum
+
+[Live visualization of ethereum block formation](http://ethviewer.live/ "ETH viewer live")
+
+[Ethereum Wiki Mining](https://github.com/ethereum/wiki/wiki/Mining "ETH Mining")
+
