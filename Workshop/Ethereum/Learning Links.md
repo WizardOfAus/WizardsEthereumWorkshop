@@ -21,6 +21,8 @@
 
 [Review of Blockchain Consensus Mechanisms](https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2 "Consensus Reviews")
 
+[On Public and Private Blockchains by V Buterin](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/ "Public vs Private Blockchains")
+
 ## Mining in Ethereum
 
 [Live visualization of ethereum block formation](http://ethviewer.live/ "ETH viewer live")
