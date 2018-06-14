@@ -26,11 +26,15 @@
 
 [On Public and Private Blockchains by V Buterin](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/ "Public vs Private Blockchains")
 
+<br />
+
 ## Mining in Ethereum
 
 [Live visualization of ethereum block formation](http://ethviewer.live/ "ETH viewer live")
 
 [Ethereum Wiki Mining](https://github.com/ethereum/wiki/wiki/Mining "ETH Mining")
+
+<br />
 
 ## Merkle Trees
 
@@ -39,6 +43,8 @@
 [How Merkle Trees Work by Consensys](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3 "By Consensys")
 
 [Patricia Trees](https://github.com/ethereum/wiki/wiki/Patricia-Tree "Specific to Ethereum")
+
+<br />
 
 ## Blockchain Demos
 
