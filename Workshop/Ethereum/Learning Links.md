@@ -29,3 +29,11 @@
 
 [Ethereum Wiki Mining](https://github.com/ethereum/wiki/wiki/Mining "ETH Mining")
 
+## Merkle Trees
+
+[Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/ "By Vitalik Buterin")
+
+[How Merkle Trees Work by Consensys](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3 "By Consensys")
+
+[Patricia Trees](https://github.com/ethereum/wiki/wiki/Patricia-Tree "Specific to Ethereum")
+
