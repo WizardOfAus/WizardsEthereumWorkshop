@@ -14,6 +14,7 @@
 
 [How Are Ethereum Addresses Generated](https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated "How Are Ethereum Addresses Generated")
 
+<br />
 
 ## Consensus Mechanisms
 
