@@ -37,3 +37,8 @@
 
 [Patricia Trees](https://github.com/ethereum/wiki/wiki/Patricia-Tree "Specific to Ethereum")
 
+## Blockchain Demos
+
+[Blockchain Demo](https://anders.com/blockchain/ "Very good demo") Must Watch!
+
+[Solidity Documentation](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics "Blockchain Basics")
