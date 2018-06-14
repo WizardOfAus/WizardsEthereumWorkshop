@@ -12,6 +12,8 @@
 
 [The Ethereum Developer Essential Reading List](https://medium.com/blockchannel/the-ethereum-developer-essential-reading-list-4fe5d788b294 "Essentials")
 
+[How Are Ethereum Addresses Generated](https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated "How Are Ethereum Addresses Generated")
+
 
 ## Consensus Mechanisms
 
