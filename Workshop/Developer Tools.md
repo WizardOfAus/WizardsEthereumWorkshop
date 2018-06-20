@@ -1,5 +1,9 @@
 ### Useful links
 
+<br />
+
+<hr />
+
 https://github.com/ethereum/mist/wiki
 
 https://www.parity.io/
