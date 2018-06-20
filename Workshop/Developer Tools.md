@@ -1,8 +1,8 @@
 ### Useful links
 
-<br />
-
 <hr />
+
+<br />
 
 https://github.com/ethereum/mist/wiki
 
