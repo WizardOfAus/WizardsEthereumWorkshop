@@ -28,6 +28,16 @@
 
 <br />
 
+## Decentralised Application Development
+
+[Why Use A Blockchain](https://www.coindesk.com/information/why-use-a-blockchain/ "Why Use Blockchain")
+
+[Ethereum For Web Devs](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c "ETH 4 Web Devs")
+
+[Brief Overview of dApp Dev](https://thecontrol.co/a-brief-overview-of-dapp-development-b8ac1648322c "Brief Overview")
+
+<br />
+
 ## Mining in Ethereum
 
 [Live visualization of ethereum block formation](http://ethviewer.live/ "ETH viewer live")
