@@ -23,3 +23,5 @@ https://ipfs.io/
 https://swarm-guide.readthedocs.io/en/latest/introduction.html
 
 https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html
+
+https://www.npmjs.com/package/ganache-cli
