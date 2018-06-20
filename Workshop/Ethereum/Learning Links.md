@@ -61,3 +61,16 @@
 [Blockchain Demo](https://anders.com/blockchain/ "Very good demo") Must Watch!
 
 [Solidity Documentation](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html#blockchain-basics "Blockchain Basics")
+
+<br />
+
+## Setup
+
+[Creating a private chain testnet](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain.html "Private chain testnet")
+
+[geth](https://github.com/ethereum/go-ethereum/wiki/geth "geth")
+
+[infura](https://infura.io/ "Connect to the Ethereum network")
+
+
+<br />
