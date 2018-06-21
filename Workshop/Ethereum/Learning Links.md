@@ -74,3 +74,7 @@
 
 
 <br />
+
+## Catchup Reads (Interesting reading when there is time available that I haven't read yet)
+
+https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1
