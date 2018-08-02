@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/EthereumWizards/Lobby)
+
 See the [wiki](https://github.com/WizardOfAus/WizardsEthereumWorkshop/wiki) for further details.
 
 Collaborators:
